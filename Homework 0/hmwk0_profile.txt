@@ -1,0 +1,10 @@
+——Student Profile——
+
+Name: Adrian Ornelas Ruvalcaba
+
+Major/minor: ES
+
+Programming experience: 2
+
+What do you expect to learn in this course? How to code and store information in C++
+
